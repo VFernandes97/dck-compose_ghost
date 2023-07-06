@@ -9,5 +9,5 @@ Como subir a aplicação ?
 $ docker-compose up -d
   
 
-Créditos
+Créditos  
 Aprendizado adquirido na Comunidade Devops by @mateusmuller.
